@@ -1,0 +1,15 @@
+.container{
+    font-family:times;
+    text-align: center;
+    
+}
+.container,h1{
+    font-family: helvetica;
+    text-align: center;
+}
+.level,button{
+    font-family: helvetica;
+    text-align: center;
+}
+
+.level,button{ background-image: url(http://www.vector-eps.com/wp-content/gallery/flower-background-textures/thumbs/thumbs_flower-background-texture2.jpg)}

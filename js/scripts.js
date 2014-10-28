@@ -1,0 +1,59 @@
+$("button").click(function(){
+    var inputtext=$("#myinput").val();
+    //alert(inputtext);
+    var firstletter=inputtext.charAt(0);
+    console.log(firstletter);
+    if(firstletter==="a"){
+    alert("amazing!");}
+    if(firstletter==="b"){
+    alert("beautiful!");}
+       if(firstletter==="c"){
+    alert("crazy!");}
+       if(firstletter==="d"){
+    alert("disgusting!");}
+       if(firstletter==="e"){
+    alert("excellent!");}
+       if(firstletter==="f"){
+    alert("filthy!");}
+       if(firstletter==="g"){
+    alert("genuine!");}
+       if(firstletter==="h"){
+    alert("healthy!");}
+       if(firstletter==="i"){
+    alert("inexperienced!");}
+       if(firstletter==="j"){
+    alert("jaded!");}
+       if(firstletter==="k"){
+    alert("kindhearted!");}
+       if(firstletter==="l"){
+    alert("loud!");}
+       if(firstletter==="m"){
+    alert("miserable!");}
+       if(firstletter==="n"){
+    alert("neat!");}
+       if(firstletter==="o"){
+    alert("offensive!");}
+       if(firstletter==="p"){
+    alert("practical!");}
+       if(firstletter==="q"){
+    alert("quarrelsome!");}
+       if(firstletter==="r"){
+    alert("reliable!");}
+       if(firstletter==="s"){
+    alert("silly!");}
+      if(firstletter==="t"){
+    alert("thrifty!");}
+      if(firstletter==="u"){
+    alert("unfortunate!");}
+      if(firstletter==="v"){
+    alert("victorious!");}
+      if(firstletter==="w"){
+    alert("watery!");}
+      if(firstletter==="x"){
+    alert("xenophobic!");}
+      if(firstletter==="y"){
+    alert("young!");}
+      if(firstletter==="z"){
+    alert("zealous!");}
+ 
+});
